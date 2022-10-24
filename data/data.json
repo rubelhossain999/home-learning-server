@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Hotel Sheraton in the Dhata",
+        "details": "Set in Dhaka, 1.4 km from Primeasia University, THE WAY Dhaka offers accommodation with a restaurant, free private parking, a fitness centre and a garden. Each accommodation at the 5-star hotel has garden views, and guests can enjoy access to a barbecue and to an indoor pool. The accommodation features a 24-hour front desk, room service and currency exchange for guests.At the hotel every room includes air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, bathrobes and slippers. At THE WAY Dhaka rooms are equipped with bed linen and towels.",
+        "image": "https://i.ibb.co/x7DxH9T/232835662.jpg",
+        "rate": 4,
+        "bed": 2,
+        "location": "Dhaka",
+        "man": 2
+    },
+    {
+        "id": 2,
+        "title": "Hotel Priyo Nibash Stylish Residential",
+        "details": "Set in Dhaka, within 1.1 km of Daffodil International University and 1 km of Dhaka Tribune, Hotel Priyo Nibash Stylish Residential offers accommodation with a terrace and as well as free private parking for guests who drive. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi throughout the property. The hotel features family rooms.",
+        "image": "https://i.ibb.co/Lg6MVsR/110997773.jpg",
+        "rate": 5,
+        "bed": 1,
+        "location": "Khulna",
+        "man": 2
+    },
+    {
+        "id": 3,
+        "title": "Innotel Baton Rouge - Luxury'Collection Hotel",
+        "details": "Air-conditioned rooms at Innotel are fitted with a safety deposit box, a desk, a flat-screen TV with satellite channels and a wardrobe. Private bathrooms include hot/cold shower amenities.Dine at Innotels 3 different dining options which serve Thai fusion, local and international cuisines as well as a café stocked with snacks and hot beverages.",
+        "image": "https://i.ibb.co/Vm03VrJ/148766124.jpg",
+        "rate": 4.5,
+        "bed": 3,
+        "location": "Jhenaidah",
+        "man": 6
+    },
+    {
+        "id": 4,
+        "title": "Best Western PLUS Maya - Luxury Collection Hotel",
+        "details": "Situated in Dhaka, 400 m from Primeasia University, Hotel Omni Residency Dhaka features accommodation with a restaurant, free private parking, a fitness centre and a shared lounge. Each accommodation at the 4-star hotel has garden views, and guests can enjoy access to a garden and to a terrace. The accommodation provides a 24-hour front desk, room service and currency exchange for guests.",
+        "image": "https://i.ibb.co/3sz1NZ0/225839787.jpg",
+        "rate": 4.8,
+        "bed": 4,
+        "location": "kushtia",
+        "man": 8
+    },
+    {
+        "id": 5,
+        "title": "Holiday Inn Dhaka City Centre, an IHG Hotel",
+        "details": "Set in Dhaka, 1.4 km from Primeasia University, THE WAY Dhaka offers accommodation with a restaurant, free private parking, a fitness centre and a garden. Each accommodation at the 5-star hotel has garden views, and guests can enjoy access to a barbecue and to an indoor pool. The accommodation features a 24-hour front desk, room service and currency exchange for guests.At the hotel every room includes air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, bathrobes and slippers. At THE WAY Dhaka rooms are equipped with bed linen and towels.",
+        "image": "https://i.ibb.co/jh5CpkD/111114120.jpg",
+        "rate": 4.9,
+        "bed": 2,
+        "location": "Magura",
+        "man": 2
+    },
+    {
+        "id": 6,
+        "title": "Hotel As Shams International",
+        "details": "Set in Dhaka, 1.4 km from Primeasia University, THE WAY Dhaka offers accommodation with a restaurant, free private parking, a fitness centre and a garden. Each accommodation at the 5-star hotel has garden views, and guests can enjoy access to a barbecue and to an indoor pool. The accommodation features a 24-hour front desk, room service and currency exchange for guests.At the hotel every room includes air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, bathrobes and slippers. At THE WAY Dhaka rooms are equipped with bed linen and towels.",
+        "image": "https://i.ibb.co/YXBkCF9/249572013.jpg",
+        "rate": 5,
+        "bed": 2,
+        "location": "Rankpur",
+        "man": 2
+    },
+    {
+        "id": 7,
+        "title": "Renaissance Dhaka Gulshan Hotel",
+        "details": "Set in Dhaka, 1.4 km from Primeasia University, THE WAY Dhaka offers accommodation with a restaurant, free private parking, a fitness centre and a garden. Each accommodation at the 5-star hotel has garden views, and guests can enjoy access to a barbecue and to an indoor pool. The accommodation features a 24-hour front desk, room service and currency exchange for guests.At the hotel every room includes air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, bathrobes and slippers. At THE WAY Dhaka rooms are equipped with bed linen and towels.",
+        "image": "https://i.ibb.co/GPL9GRw/280900355.jpg",
+        "rate": 2.9,
+        "bed": 2,
+        "location": "Dhaka mirpur",
+        "man": 2
+    },
+    {
+        "id": 8,
+        "title": "Nascent Gardenia Residence",
+        "details": "Set in Dhaka, 1.4 km from Primeasia University, THE WAY Dhaka offers accommodation with a restaurant, free private parking, a fitness centre and a garden. Each accommodation at the 5-star hotel has garden views, and guests can enjoy access to a barbecue and to an indoor pool. The accommodation features a 24-hour front desk, room service and currency exchange for guests.At the hotel every room includes air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, bathrobes and slippers. At THE WAY Dhaka rooms are equipped with bed linen and towels.",
+        "image": "https://i.ibb.co/zxJq1FK/344509054.jpg",
+        "rate": 5,
+        "bed": 2,
+        "location": "Dhaka uttra",
+        "man": 2
+    },
+    {
+        "id": 9,
+        "title": "Radisson blu Dhaka Water Garden",
+        "details": "Set in Dhaka, 1.4 km from Primeasia University, THE WAY Dhaka offers accommodation with a restaurant, free private parking, a fitness centre and a garden. Each accommodation at the 5-star hotel has garden views, and guests can enjoy access to a barbecue and to an indoor pool. The accommodation features a 24-hour front desk, room service and currency exchange for guests.At the hotel every room includes air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, bathrobes and slippers. At THE WAY Dhaka rooms are equipped with bed linen and towels.",
+        "image": "https://i.ibb.co/gDknb9L/388840252.jpg",
+        "rate": 4.9,
+        "bed": 2,
+        "location": "Khulna",
+        "man": 2
+    },
+    {
+        "id": 10,
+        "title": "Zaras Service Apartment",
+        "details": "Set in Dhaka, 1.4 km from Primeasia University, THE WAY Dhaka offers accommodation with a restaurant, free private parking, a fitness centre and a garden. Each accommodation at the 5-star hotel has garden views, and guests can enjoy access to a barbecue and to an indoor pool. The accommodation features a 24-hour front desk, room service and currency exchange for guests.At the hotel every room includes air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, bathrobes and slippers. At THE WAY Dhaka rooms are equipped with bed linen and towels.",
+        "image": "https://i.ibb.co/DwXJwWz/397882715.jpg",
+        "rate": 4.7,
+        "location": "Cox Bazar",
+        "bed": 2,
+        "man": 2
+    }
+]
