@@ -5,7 +5,7 @@
         "details": "By learning C programming language in this course you can start your programming journey and prepare to learn any other language in future.",
         "image": "https://i.ibb.co/Fhy3qy9/C-Programming-Bangla-Online-Course-Bohubrihi-Shikho.jpg",
         "type": "Online Course",
-        "category": 2,
+        "category": "Web Design & Develop",
         "teacher": "Rimi Khatun",
         "price": 350
     },
@@ -15,7 +15,7 @@
         "details": "To work with complex issues like data science or statistical analysis, it is important to master R Programming well, which is fully understood in this course.",
         "image": "https://i.ibb.co/LNpnfny/Banner-Introduction-to-R.jpg",
         "type": "Online",
-        "category": 1,
+        "category": "Programming Contest",
         "teacher": "Md: Rubel",
         "price": 290
     },
@@ -25,7 +25,7 @@
         "details": "In this course, learn the tools as well as the clear design concepts required to be a successful graphic designer.",
         "image": "https://i.ibb.co/Fn96tVV/Graphic-Design-Fundamentals-Bangla-Online-Course-Bohubrihi.jpg",
         "type": "Online Course",
-        "category": 3,
+        "category": "Graphic Design",
         "teacher": "Ala Uddin",
         "price": 600
     },
@@ -35,7 +35,7 @@
         "details": "In this iOS app development course, you will learn to create various apps for the Apple ecosystem using the Swift language. The course will give you the confidence to start a career as an iOS developer.",
         "image": "https://i.ibb.co/TPSXvCY/i-OS-App-Development-with-SWIFT-Bangla-Online-Course.jpg",
         "type": "Online Course",
-        "category": 4,
+        "category": "App Develops",
         "teacher": "Salim Rana",
         "price": 800
     },
@@ -45,7 +45,7 @@
         "details": "Google ads are more effective than social media sites to get the most website visitors in the least amount of time. You will learn marketing successfully through Google in this course.",
         "image": "https://i.ibb.co/WBbbSJC/Complete-Google-Ads-A-to-Z-Bangla-Course-Bohubrihi.jpg",
         "type": "Online Course",
-        "category": 2,
+        "category": "SEO",
         "teacher": "Kalid miea",
         "price": 250
     },
@@ -55,7 +55,7 @@
         "details": "Learn the programming skills needed to build an interesting career in front-end web development in 4 months, through 14 practical projects.",
         "image": "https://i.ibb.co/FVJMrXf/Front-End-Web-Development-Career-Track-Bangla-Course-Bohubrihi.jpg",
         "type": "Online Course",
-        "category": 2,
+        "category": "JavaScript Develop",
         "teacher": "Tipu Sultan",
         "price": 200
     }
