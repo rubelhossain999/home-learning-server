@@ -4,59 +4,59 @@
         "title": "C Programming for Beginners",
         "details": "By learning C programming language in this course you can start your programming journey and prepare to learn any other language in future.",
         "image": "https://i.ibb.co/Fhy3qy9/C-Programming-Bangla-Online-Course-Bohubrihi-Shikho.jpg",
-        "rate": 4,
-        "bed": 2,
-        "location": "Dhaka",
-        "man": 2
+        "type": "Online",
+        "category": 2,
+        "teacher": "Rimi Khatun",
+        "price": 350
     },
     {
         "id": 2,
         "title": "Introduction to R Programming",
         "details": "To work with complex issues like data science or statistical analysis, it is important to master R Programming well, which is fully understood in this course.",
         "image": "https://i.ibb.co/LNpnfny/Banner-Introduction-to-R.jpg",
-        "rate": 5,
-        "bed": 1,
-        "location": "Khulna",
-        "man": 2
+        "type": "Online",
+        "category": 1,
+        "teacher": "Md: Rubel",
+        "price": 290
     },
     {
         "id": 3,
         "title": "Graphic Design Fundamentals",
         "details": "In this course, learn the tools as well as the clear design concepts required to be a successful graphic designer.",
         "image": "https://i.ibb.co/Fn96tVV/Graphic-Design-Fundamentals-Bangla-Online-Course-Bohubrihi.jpg",
-        "rate": 4.5,
-        "bed": 3,
-        "location": "Jhenaidah",
-        "man": 6
+        "type": "Online",
+        "category": 3,
+        "teacher": "Ala Uddin",
+        "price": 600
     },
     {
         "id": 4,
         "title": "iOS App Development with SWIFT",
         "details": "In this iOS app development course, you will learn to create various apps for the Apple ecosystem using the Swift language. The course will give you the confidence to start a career as an iOS developer.",
         "image": "https://i.ibb.co/TPSXvCY/i-OS-App-Development-with-SWIFT-Bangla-Online-Course.jpg",
-        "rate": 4.8,
-        "bed": 4,
-        "location": "kushtia",
-        "man": 8
+        "type": "Online",
+        "category": 4,
+        "teacher": "Salim Rana",
+        "price": 800
     },
     {
         "id": 5,
         "title": " Google Ads: A to Z",
         "details": "Google ads are more effective than social media sites to get the most website visitors in the least amount of time. You will learn marketing successfully through Google in this course.",
         "image": "https://i.ibb.co/WBbbSJC/Complete-Google-Ads-A-to-Z-Bangla-Course-Bohubrihi.jpg",
-        "rate": 4.9,
-        "bed": 2,
-        "location": "Magura",
-        "man": 2
+        "type": "Online",
+        "category": 2,
+        "teacher": "Kalid miea",
+        "price": 250
     },
     {
         "id": 6,
         "title": "Learn Complete Front-End Development (JavaScript)",
         "details": "Learn the programming skills needed to build an interesting career in front-end web development in 4 months, through 14 practical projects.",
         "image": "https://i.ibb.co/FVJMrXf/Front-End-Web-Development-Career-Track-Bangla-Course-Bohubrihi.jpg",
-        "rate": 5,
-        "bed": 2,
-        "location": "Rankpur",
-        "man": 2
+        "type": "Online",
+        "category": 2,
+        "teacher": "Tipu Sultan",
+        "price": 200
     }
 ]
